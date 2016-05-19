@@ -7,3 +7,7 @@ http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.cdt.doc.user%2Fconce
             Install the app and run.
                 %MinGW%\bin\mingw-get.exe
                   install mingw32-gcc-g++, mingw-developer-toolkit, mingw32base, msys-base
+
+
+
+https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseCpp_HowTo.html
